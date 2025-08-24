@@ -21,6 +21,7 @@
 5. 完整文档 - 详细的README使用指南
    
 ## 🏗️ 项目结构
+```bash
 react-ts-mock-backend-sever/
 ├── public/                 # 静态资源
 │   └── index.html         # HTML模板
@@ -43,7 +44,7 @@ react-ts-mock-backend-sever/
 ├── package.json          # 项目依赖
 ├── tsconfig.json         # TypeScript配置
 └── README.md             # 项目文档
-
+```
 
 ## 🚀 快速开始
 
